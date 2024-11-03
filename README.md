@@ -12,6 +12,3 @@ This project leverages machine learning to predict the likelihood of an arrest i
 
 ### Results
 The neural network model provided slightly superior classification accuracy over the Random Forest model, especially in cases with complex feature interactions. However, Random Forest with three key features (crime type, area, and premise) nearly matched the performance, indicating the simplicity of underlying patterns.
-
-### Conclusion
-Our findings highlight the predictive power of certain features in arrest likelihood, such as crime type and location. The project showcases how machine learning can provide actionable insights for crime prevention and law enforcement.
